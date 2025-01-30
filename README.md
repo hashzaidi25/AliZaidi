@@ -2,7 +2,8 @@
 
 👋 Hi, I'm Ali Zaidi, a Full-Stack Developer and a Freelancer. I specialize in building scalable web applications.
 
-🔹 **Projects:** Developed an **IELTS LMS platform**, **IP consultancy websites**, and an **interactive wedding website**
+🔹 **Projects:** Developed an **IELTS LMS platform**, **IP consultancy websites**, and an **interactive wedding website** 
+
 🔹 **Interests:** Web development, AI, serverless architecture
 
 ---
