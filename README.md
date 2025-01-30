@@ -1,18 +1,19 @@
-# My Skills
+# 🚀 About Me
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,postgres,aws,vercel,github,vscode,tailwind,express)](https://skillicons.dev)
+👋 Hi, I'm Ali Zaidi, a Full-Stack Developer and a Freelancer. I specialize in building scalable web applications.
 
-## Themed Icons
+🔹 **Projects:** Developed an **IELTS LMS platform**, **IP consultancy websites**, and an **interactive wedding website**
+🔹 **Experience:** Government of India Patent Examiner | 10+ years of teaching experience
+🔹 **Interests:** Web development, AI for education, serverless architecture
 
-### Light Theme
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,postgres,aws,vercel,github,vscode,tailwind,express&theme=light)](https://skillicons.dev)
+---
 
-## Icons Per Line
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,postgres,aws,vercel,github,vscode,tailwind,express&perline=4)](https://skillicons.dev)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=portfolio)](#)
 
-## Centered Icons
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nodejs,postgres,aws,vercel,github,vscode,tailwind,express" />
-  </a>
-</p>
+---
+
+## 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,css,html,java,js,ts,vercel,cloudflare,render,anaconda,nvidia,express,jwt,npm,nextjs,nodejs,nodemon,opencv,pnpm,react,reactrouter,tailwind,vite,mongodb,mysql,postgres,prisma,matplotlib,sklearn,tensorflow,numpy,pandas,github,docker,postman)](https://skillicons.dev)
