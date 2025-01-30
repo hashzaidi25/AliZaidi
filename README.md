@@ -9,9 +9,9 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/ali-zaidi-1125z/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=portfolio)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=portfolio)](https://portfolio-zaidi.netlify.app/)
 
 ---
 
